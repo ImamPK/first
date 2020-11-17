@@ -1,2 +1,2 @@
-# snakeden
-My First Repo, the snakeden
+# first
+My First Repo
